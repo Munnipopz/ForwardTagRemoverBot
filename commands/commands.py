@@ -19,7 +19,7 @@ from config import Config
 #Inline Keyboard Button
 keyboard = [
 [
- InlineKeyboardButton("Source Code", url=Config.SOURCE)
+ InlineKeyboardButton("🔹OWNER🔹", url=Config.SOURCE)
 ],
 [
  InlineKeyboardButton("🔹JOIN GROUP🔹",url="https://t.me/mpazaanbot")
